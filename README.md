@@ -1,6 +1,6 @@
 CodeAlpha Basic Chatbot
 
-========================
+\-------------------
 
 
 
@@ -68,11 +68,5 @@ How to Run
 
 
 
-Internship
 
-\----------
-
-
-
-CodeAlpha Python Programming Internship
 
