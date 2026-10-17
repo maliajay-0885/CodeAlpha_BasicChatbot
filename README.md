@@ -58,9 +58,5 @@ A simple rule-based chatbot created using Python. It responds to user messages u
 
 
 
-\## Internship
 
-
-
-CodeAlpha Python Programming Internship
 
