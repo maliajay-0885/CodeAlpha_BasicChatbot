@@ -1,8 +1,12 @@
-\# CodeAlpha Basic Chatbot
+CodeAlpha Basic Chatbot
+
+========================
 
 
 
-\## Project Description
+Project Description
+
+\-------------------
 
 
 
@@ -10,7 +14,9 @@ A simple rule-based chatbot created using Python. It responds to user messages u
 
 
 
-\## Features
+Features
+
+\--------
 
 
 
@@ -28,7 +34,9 @@ A simple rule-based chatbot created using Python. It responds to user messages u
 
 
 
-\## Technologies Used
+Technologies Used
+
+\-----------------
 
 
 
@@ -44,7 +52,9 @@ A simple rule-based chatbot created using Python. It responds to user messages u
 
 
 
-\## How to Run
+How to Run
+
+\----------
 
 
 
@@ -58,5 +68,11 @@ A simple rule-based chatbot created using Python. It responds to user messages u
 
 
 
+Internship
 
+\----------
+
+
+
+CodeAlpha Python Programming Internship
 
